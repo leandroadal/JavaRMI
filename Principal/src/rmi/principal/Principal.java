@@ -7,11 +7,11 @@ import distri.conectorRMI.ConectorRMICliente;
 
 public class Principal {
 	public static void main(String[] args) {
-		// Instanciando emprestimo
+		// Instanciando empréstimo
 		br.ufal.aracomp.cosmos.emprestimo.spec.prov.IManager compEmp = 
 				ComponentFactory.createInstance();
 		
-		// Instaciando o conector
+		// Instanciando o conector
 		ConectorRMICliente conector = new ConectorRMICliente();
 		compEmp.setRequiredInterface("ILimiteReq", conector);
 		

@@ -1,8 +1,0 @@
-INDEX VERSION 1.132+D:\Programação\Projetos\Java\javaRMI\.metadata\.plugins\org.eclipse.jdt.core
-635513006.index
-3959137331.index
-83498214.index
-901584925.index
-2975875218.index
-1865797976.index
-998572232.index
